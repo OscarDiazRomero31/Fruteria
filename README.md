@@ -1,0 +1,2 @@
+# Fruteria
+Proyecto de Django
